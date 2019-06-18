@@ -1,12 +1,25 @@
 .menu{
   font-family:'Lobster', cursive;
+  font-size: 18px;
+  text-align: center;
 }
 
   .menu > a{
     text-decoration: none; 
     color: black;
+    margin-right: 20px;
   }
 
   .menu > a:visited{
     color: aquamarine;
+  }
+
+  .menu > a:hover{
+    color: lightpink; 
+  }
+
+  h1{
+    font-family: 'Amatic SC', cursive;
+    border-bottom: 2px dotted black;
+    padding-bottom: 5px;
   }
