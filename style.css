@@ -1,7 +1,16 @@
+.largura{
+  width: 700px;
+  margin: auto;
+}
+
 .menu{
   font-family:'Lobster', cursive;
   font-size: 18px;
+  width: 600px; 
+  margin: auto; 
   text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
   .menu > a{
@@ -22,4 +31,21 @@
     font-family: 'Amatic SC', cursive;
     border-bottom: 2px dotted black;
     padding-bottom: 5px;
+    
+  }
+
+  .conteudo{
+    line-height: 32px;
+    font-family: 'Bad Script' , cursive;
+  }
+
+  .img-principal{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+  .selecionado{
+    border-bottom: 2px dotted black;
+    
   }
