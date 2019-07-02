@@ -24,7 +24,7 @@
   }
 
   .menu > a:hover{
-    color: #ffcce6;
+    color: #ff99bb;
   }
 
   h1{
@@ -56,11 +56,6 @@
     margin-bottom: 20px;
   }
 
-  .lateral2{
-    float: left;
-    margin-left: 20px;
-    margin-bottom: 20px;
-  }
 
   .lateral3{
     float: left;
