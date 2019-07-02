@@ -20,11 +20,11 @@
   }
 
   .menu > a:visited{
-    color: aquamarine;
+    color: #e5ccff;
   }
 
   .menu > a:hover{
-    color: lightpink; 
+    color: #ffcce6;
   }
 
   h1{
@@ -49,6 +49,31 @@
     border-bottom: 2px dotted black;
     
   }
-body{
-    background: #ccccff;
+
+  .lateral1{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+  .lateral2{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .lateral3{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+  .lateral4{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  body{
+    background: #ffe6f3;
   }
