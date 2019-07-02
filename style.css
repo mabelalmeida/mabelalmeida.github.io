@@ -50,25 +50,6 @@
     
   }
 
-  .lateral1{
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 20px;
-  }
-
-
-  .lateral3{
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 20px;
-  }
-
-  .lateral4{
-    float: right;
-    margin-left: 20px;
-    margin-bottom: 20px;
-  }
-
   body{
     background: #ffe6f3;
   }
